@@ -47,3 +47,20 @@ h1 {
     text-align: left;
 }
 
+.recipe-card h2,
+a {
+    text-transform: uppercase;
+}
+
+.recipe-card.feature {
+    border: 2px solid darkred;
+}
+
+/* ========== CHALLENGE 3 ========== //
+//
+// 1. Change <h2> elements within a <ul> and <li> to be 16px
+// 2. Update recipe card link styles, set:
+//      -- background color to #fc9400
+//      -- text color to white
+//      -- remove underline
+*/
