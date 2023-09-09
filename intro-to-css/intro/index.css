@@ -27,3 +27,23 @@ ul {
 h1 {
     color: darkred;
 }
+
+/* ========== CHALLENGE 2 ========== //
+//
+// 1. Style the recipe card so that it has a 
+//      -- background color of #FFFAFA
+//      -- text is aligned center
+// 2. Set text inside recipe-content to align left
+//
+*/
+
+.recipe-card {
+    width: 400px;
+    background-color: #FFFAFA;
+    text-align: center;
+}
+
+.recipe-content {
+    text-align: left;
+}
+
